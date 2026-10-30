@@ -1,0 +1,192 @@
+BIG_MESSAGE.EXTRACTION.ACTIVATED	Point d'extraction activé
+BIG_MESSAGE.EXTRACTION.COMPLETED	Point d'extraction validé
+FOCUS.EXTRACTION.FILL_VALUABLES	Remplissez le point d'extraction avec des objets de valeur
+FOCUS.EXTRACTION.AVOID_GRENADES	Évitez les grenades !
+FOCUS.EXTRACTION.FIND_NEXT	Trouvez le prochain point d'extraction
+FOCUS.EXTRACTION.BACK_TO_TRUCK	Retournez au camion !
+TUTORIAL.TRANSITION_TEXT	Beau travail !
+TUTORIAL.MOVEMENT.TEXT	Utilisez [move] pour vous déplacer.
+TUTORIAL.MOVEMENT.FOCUS_TEXT	Déplacez-vous pour remplir la barre de progression !
+TUTORIAL.MOVEMENT.DUMMY_TEXT	Utilisez [move] sur votre clavier jusqu'à ce que la barre de progression soit pleine !
+TUTORIAL.JUMPING.TEXT	Appuyez sur [jump] pour sauter.
+TUTORIAL.JUMPING.FOCUS_TEXT	Sautez pour remplir la barre de progression !
+TUTORIAL.JUMPING.DUMMY_TEXT	Sautez avec [jump] jusqu'à remplir la barre de progression !
+TUTORIAL.SNEAKING.TEXT	Appuyez sur [crouch] pour avancer discrètement. Les monstres vous repéreront moins facilement.
+TUTORIAL.SNEAKING.FOCUS_TEXT	Avancez discrètement pour remplir la barre de progression !
+TUTORIAL.SNEAKING.DUMMY_TEXT	Maintenez [crouch] et déplacez-vous avec [move] jusqu'à ce que la barre soit pleine !
+TUTORIAL.HIDING.TEXT	Utilisez [crouch] pour vous glisser sous les éléments du décor et vous cacher.
+TUTORIAL.HIDING.FOCUS_TEXT	Cachez-vous pour remplir la barre de progression !
+TUTORIAL.HIDING.DUMMY_TEXT	Maintenez [crouch] et avancez sous un élément du décor, restez caché jusqu'à ce que la barre soit pleine !
+TUTORIAL.SPRINTING.TEXT	Maintenez [sprint] pour courir. Cela consomme votre énergie.
+TUTORIAL.SPRINTING.FOCUS_TEXT	Courez pour remplir la barre de progression !
+TUTORIAL.SPRINTING.DUMMY_TEXT	Maintenez [sprint] et déplacez-vous avec [move] jusqu'à ce que la barre soit pleine ! Si vous n'avez plus d'énergie, attendez qu'elle se régénère !
+TUTORIAL.TUMBLING.TEXT	Courez puis appuyez sur [tumble] pour vous jeter au sol avec style. Sauter peut aider !
+TUTORIAL.TUMBLING.FOCUS_TEXT	Courez, sautez et jetez-vous au sol pour remplir la barre de progression !
+TUTORIAL.TUMBLING.DUMMY_TEXT	Courez avec [sprint], sautez avec [jump] puis appuyez sur [tumble] pour vous jeter au sol. Continuez jusqu'à ce que la barre soit pleine !
+TUTORIAL.GRABBING.TEXT	Attrapez les objets avec [grab].
+TUTORIAL.GRABBING.FOCUS_TEXT	Transportez un objet pour remplir la barre de progression !
+TUTORIAL.GRABBING.DUMMY_TEXT	Maintenez [grab] sur un objet jusqu'à ce que la barre soit pleine !
+TUTORIAL.PUSHING_AND_PULLING.TEXT	Utilisez [push] pour rapprocher ou éloigner les objets que vous tenez.
+TUTORIAL.PUSHING_AND_PULLING.FOCUS_TEXT	Rapprochez ou éloignez l'objet que vous tenez !
+TUTORIAL.PUSHING_AND_PULLING.DUMMY_TEXT	Maintenez [grab] sur un objet puis utilisez [pousser] pour rapprocher ou éloigner l'objet que vous tenez !
+TUTORIAL.ROTATING.TEXT	Utilisez [grab2] pour faire pivoter les objets que vous tenez.
+TUTORIAL.ROTATING.FOCUS_TEXT	Faites pivoter les objets jusqu'à ce que la barre de progression soit pleine !
+TUTORIAL.ROTATING.DUMMY_TEXT	Pendant que vous tenez un objet avec [grab], maintenez [grab2] et déplacez votre visée pour le faire pivoter. Continuez jusqu'à ce que la barre de progression soit pleine !
+TUTORIAL.ITEM_TOGGLING.TEXT	Saisissez un objet et appuyez sur [interagir] pour l'activer ou le désactiver.
+TUTORIAL.ITEM_TOGGLING.FOCUS_TEXT	Activez et désactivez cet objet !
+TUTORIAL.ITEM_TOGGLING.DUMMY_TEXT	Attrapez l'orbe antigravité avec [grab] puis activez-la et désactivez-la avec [interact] jusqu'à ce que la barre de progression soit pleine !
+TUTORIAL.INVENTORY_FILL.TEXT	Attrapez un objet puis utilisez [inventory1]/[inventory2]/[inventory3] pour le ranger dans votre inventaire.
+TUTORIAL.INVENTORY_FILL.FOCUS_TEXT	Remplissez entièrement votre inventaire !
+TUTORIAL.INVENTORY_FILL.DUMMY_TEXT	Lorsque vous tenez un objet avec [grab], appuyez sur [inventory1]/[inventory2]/[inventory3]. Remplissez tous les emplacements de votre inventaire pour remplir la barre de progression !
+TUTORIAL.INVENTORY_EMPTY.TEXT	Utilisez [inventory1]/[inventory2]/[inventory3] pour retirer des objets de votre inventaire.
+TUTORIAL.INVENTORY_EMPTY.FOCUS_TEXT	Videz entièrement votre inventaire !
+TUTORIAL.INVENTORY_EMPTY.DUMMY_TEXT	Utilisez [inventory1]/[inventory2]/[inventory3] pour vider tous les emplacements de votre inventaire et remplir la barre de progression !
+TUTORIAL.MAP.TEXT	Utilisez [map] pour consulter la carte. Elle est <b><u>ESSENTIELLE</u></b> pour vous orienter.
+TUTORIAL.MAP.FOCUS_TEXT	Consultez la carte !
+TUTORIAL.MAP.DUMMY_TEXT	Maintenez [map] et consultez la carte jusqu'à ce que la barre de progression soit pleine !
+TUTORIAL.CART_HANDLING_1.TEXT	Voici un C.H.A.R.I.O.T. Attrapez-le par la poignée.
+TUTORIAL.CART_HANDLING_1.FOCUS_TEXT	Déplacez-vous un peu avec le C.H.A.R.I.O.T. !
+TUTORIAL.CART_HANDLING_1.DUMMY_TEXT	Saisissez le C.H.A.R.I.O.T. par la poignée avec [grab] puis déplacez-vous avec lui jusqu'à remplir la barre de progression !
+TUTORIAL.CART_HANDLING_2.TEXT	Remplissez les C.H.A.R.I.O.T. d'objets de valeur. Ils sont <b><u>IMPORTANTS</u></b> pour transporter plus de butin.
+TUTORIAL.CART_HANDLING_2.FOCUS_TEXT	Remplissez le C.H.A.R.I.O.T. d'objets de valeur !
+TUTORIAL.CART_HANDLING_2.DUMMY_TEXT	Placez trois objets dans le C.H.A.R.I.O.T.
+TUTORIAL.EXTRACTION_POINTS.TEXT	Activez les <b><u>POINTS D'EXTRACTION</u></b> et déposez-y des objets de valeur.
+TUTORIAL.EXTRACTION_POINTS.FOCUS_TEXT	Extrayez les objets de valeur !
+TUTORIAL.EXTRACTION_POINTS.DUMMY_TEXT	HÉ ! DÉPOSEZ DES OBJETS DE VALEUR AU <b><u>POINT D'EXTRACTION</u></b> !
+TUTORIAL.TRUCK.TEXT	Montez dans le <b><u>CAMION</u></b> et envoyez un message à votre patron afin de quitter le niveau.
+TUTORIAL.TRUCK.FOCUS_TEXT	Montez dans le <b><u>CAMION</u></b> et envoyez un message !
+TUTORIAL.TRUCK.DUMMY_TEXT	Montez dans le camion puis maintenez [grab] sur la zone de message de l'écran pour envoyer un message !
+TUTORIAL.HEALING.TEXT	Partagez votre santé avec les autres joueurs en les attrapant par le cou !
+TUTORIAL.REVIVING.TEXT	Réanimez les autres joueurs en extrayant leur tête !
+TUTORIAL.CHARGING_STATION.TEXT	Achetez des <b><u>CRISTAUX D'ÉNERGIE</u></b> pour alimenter la <b><u>STATION DE RECHARGE</u></b> et ainsi recharger et réparer votre équipement !
+TUTORIAL.ONLY_ONE_EXTRACTION.TEXT	Un seul <b><u>POINT D'EXTRACTION</u></b> peut être actif à la fois. Utilisez votre carte pour trouver celui qui est actuellement actif !
+TUTORIAL.CHAT.TEXT	Appuyez sur [chat] pour ouvrir le chat ! C'est rigolo !
+TUTORIAL.FINAL_EXTRACTION.TEXT	Il est temps de partir ! Le camion vous soigne et réanime les joueurs dont vous ramenez la tête !
+TUTORIAL.MULTIPLE_EXTRACTIONS.TEXT	Ce niveau contient plusieurs <b><u>POINTS D'EXTRACTION</u></b>. Validez-les tous pour pouvoir partir !
+TUTORIAL.SHOP.TEXT	Voici la <b><u>BOUTIQUE</u></b>. Extrayez des objets pour faire des achats. Ici, les dégâts ne sont pas permanents !
+TUTORIAL.EXPRESSIONS.TEXT	Utilisez [expression1]/[expression2]/[expression3]/[expression4]/[expression5]/[expression6] pour faire des grimaces. Vous pouvez même les combiner !
+TUTORIAL.OVERCHARGE_1.TEXT	Attraper un ennemi provoque désormais une surcharge. Une fois la jauge pleine, vous recevrez une décharge !
+TUTORIAL.OVERCHARGE_2.TEXT	Tenir un ennemi à plusieurs atténue l’effet de surcharge.
+TUTORIAL.HEAD_SPECTATE_1.TEXT	Lorsque vous êtes mort, la batterie de votre tête se recharge progressivement. Utilisez-la pour reprendre brièvement le contrôle de votre tête.
+TUTORIAL.HEAD_SPECTATE_2.TEXT	Lorsque vous contrôlez votre tête, maintenez [jump] pour sauter. Maintenez plus longtemps pour sauter plus haut mais cela consommera davantage d'énergie.
+TUTORIAL.ENEMY_ELSA.TEXT	CARESSEZ LE CHIEN !
+MOON_UI.SKIP	[menu] pour passer
+TUTORIAL.EXTRACTION_REMINDER.TEXT	Déposez des objets de valeur aux <b><u>POINTS D'EXTRACTION</u></b>.
+TUTORIAL.COSMETIC_WORLD_OBJECT_1.TEXT	Voici une <b><u>CAISSE COSMÉTIQUE</u></b>. Extrayez-la pour obtenir une récompense.
+TUTORIAL.COSMETIC_WORLD_OBJECT_2.TEXT	Si elle subit des dégâts, vous pouvez la <b><u>RÉPARER</u></b> en utilisant votre propre santé.
+TUTORIAL.COSMETIC_SHOP_MACHINE.TEXT	Insérez vos <b><u>JETONS DE TAXE</u></b> dans la machine de la boutique pour récupérer vos récompenses.
+FOCUS.PREFIX	OBJECTIF
+FOCUS.SHOP.INTRO	Achetez de l'équipement à la boutique
+FOCUS.TRUCK.INTRO	Profitez du trajet, rechargez votre matériel et ÉQUIPEZ-VOUS !
+COSMETIC_SHOP_MACHINE.INFO_TEXT	Appuyez sur [interact] pour insérer un jeton de taxe
+ITEM.CART_CANNON	Canon de C.H.A.R.I.O.T.
+ITEM.CART_LASER	Laser de C.H.A.R.I.O.T.
+ITEM.CART_MEDIUM	C.A.R.T.
+ITEM.CART_SMALL	C.H.A.R.I.O.T. DE POCHE
+ITEM.DRONE_BATTERY	Drone de recharge
+ITEM.DRONE_FEATHER	Feather Drone
+ITEM.DRONE_INDESTRUCTIBLE	Drone d'indestructibilité
+ITEM.DRONE_TORQUE	Roll Drone
+ITEM.DRONE_ZERO_GRAVITY	Drone antigravité
+ITEM.DUCK_BUCKET	Seau à canard
+ITEM.EXTRACTION_TRACKER	Traqueur d'extraction
+ITEM.GRENADE_DUCT_TAPED	Grenades scotchées
+ITEM.GRENADE_EXPLOSIVE	Grenade
+ITEM.GRENADE_HUMAN	Grenade humaine
+ITEM.GRENADE_SHOCKWAVE	Grenade à onde de choc
+ITEM.GRENADE_STUN	Grenade étourdissante
+ITEM.GUN_HANDGUN	Pistolet
+ITEM.GUN_LASER	Blaster à photons
+ITEM.GUN_SHOCKWAVE	Pistolet à impulsion
+ITEM.GUN_SHOTGUN	Fusil à pompe
+ITEM.GUN_STUN	Arbalète électrique
+ITEM.GUN_TRANQ	Pistolet tranquillisant
+ITEM.HEALTH_PACK_LARGE	Grand kit de soins (100)
+ITEM.HEALTH_PACK_MEDIUM	Kit de soins moyen (50)
+ITEM.HEALTH_PACK_SMALL	Petit kit de soins (25)
+ITEM.LEAF_BLOWER	Souffleur de feuilles
+ITEM.MELEE_BASEBALL_BAT	Batte de baseball
+ITEM.MELEE_FRYING_PAN	Poêle à frire
+ITEM.MELEE_INFLATABLE_HAMMER	Marteau gonflable
+ITEM.MELEE_SLEDGE_HAMMER	Masse
+ITEM.MELEE_STUN_BATON	Taser de contact
+ITEM.MELEE_SWORD	Épée
+ITEM.MINE_EXPLOSIVE	Mine explosive
+ITEM.MINE_SHOCKWAVE	Mine à onde de choc
+ITEM.MINE_STUN	Piège électrique
+ITEM.ORB_ZERO_GRAVITY	Orbe antigravité
+ITEM.PHASE_BRIDGE	Pont de phase
+ITEM.POWER_CRYSTAL	Cristal d'énergie
+ITEM.REVIVE_ITEM	Defibro
+ITEM.RUBBER_DUCK	Canard en caoutchouc
+ITEM.STAFF_TORQUE	Roll Staff
+ITEM.STAFF_VOID	Bâton du vide
+ITEM.STAFF_ZERO_GRAVITY	Bâton antigravité
+ITEM.UPGRADE_DEATH_HEAD_BATTERY	Death Head Battery Upgrade
+ITEM.UPGRADE_MAP_PLAYER_COUNT	Compteur de joueurs sur la carte
+ITEM.UPGRADE_PLAYER_CROUCH_REST	Crouch Rest Upgrade
+ITEM.UPGRADE_PLAYER_ENERGY	Amélioration d'endurance
+ITEM.UPGRADE_PLAYER_EXTRA_JUMP	Amélioration de saut supplémentaire
+ITEM.UPGRADE_PLAYER_GRAB_RANGE	Amélioration de portée
+ITEM.UPGRADE_PLAYER_GRAB_STRENGTH	Amélioration de force
+ITEM.UPGRADE_PLAYER_HEALTH	Amélioration de santé
+ITEM.UPGRADE_PLAYER_SPRINT_SPEED	Sprint Speed Upgrade
+ITEM.UPGRADE_PLAYER_TUMBLE_CLIMB	Tumble Climb Upgrade
+ITEM.UPGRADE_PLAYER_TUMBLE_LAUNCH	Tumble Launch Upgrade
+ITEM.UPGRADE_PLAYER_TUMBLE_WINGS	Tumble Wings Upgrade
+ITEM.VALUABLE_TRACKER	Traqueur d'objets de valeur
+ITEM.VEHICLE_SEMISCOOTER	Hauler
+ITEM.VEHICLE_SEMISCOOTER_SMALL	Scout
+ITEM.WALKIE_TALKIE	Talkie-walkie Semibot
+ITEM.WALKIE_TALKIE_BOX	Talkies-walkies Semibot
+STATS.UPGRADES.HEADER	Améliorations
+LEVEL.HEADER	Niveau
+STATS.UPGRADE.CROUCH_REST	Crouch Rest
+STATS.UPGRADE.DEATH_HEAD_BATTERY	Death Head Battery
+STATS.UPGRADE.EXTRA_JUMP	Saut supplémentaire
+STATS.UPGRADE.HEALTH	Santé
+STATS.UPGRADE.LAUNCH	Tumble Launch
+STATS.UPGRADE.MAP_PLAYER_COUNT	Map Player Count
+STATS.UPGRADE.RANGE	Range
+STATS.UPGRADE.SPEED	Sprint Speed
+STATS.UPGRADE.STAMINA	Stamina
+STATS.UPGRADE.STRENGTH	Strength
+STATS.UPGRADE.TUMBLE_CLIMB	Tumble Climb
+STATS.UPGRADE.TUMBLE_WINGS	Tumble Wings
+ENEMY.ANIMAL	Animal
+ENEMY.BANG	Banger
+ENEMY.BEAMER	Clown
+ENEMY.BIRTHDAY_BOY	Birthday Boy
+ENEMY.BOMB_THROWER	Cleanup Crew
+ENEMY.BOWTIE	Bowtie
+ENEMY.CEILING_EYE	Peeper
+ENEMY.DUCK	Apex Predator
+ENEMY.ELSA	Elsa
+ENEMY.FLOATER	Mentalist
+ENEMY.GNOME	Gnome
+ENEMY.HEAD	Headman
+ENEMY.HEAD_GRABBER	Headgrab
+ENEMY.HEART_HUGGER	Heart Hugger
+ENEMY.HIDDEN	Hidden
+ENEMY.HUNTER	Huntsman
+ENEMY.OOGLY	Oogly
+ENEMY.ROBE	Robe
+ENEMY.RUNNER	Reaper
+ENEMY.SHADOW	Loom
+ENEMY.SLOW_MOUTH	Spewer
+ENEMY.SLOW_WALKER	Trudge
+ENEMY.SPINNY	Gambit
+ENEMY.THIN_MAN	Shadow Child
+ENEMY.TICK	Tick
+ENEMY.TRICYCLE	Bella
+ENEMY.TUMBLER	Chef
+ENEMY.UPSCREAM	Upscream
+ENEMY.VALUABLE_THROWER	Rugrat
+UPGRADE_STAND.INTERACT	Maintenez pour relancer ({cost})
+ARENA.WINNER.KING	King of the Losers!
+ARENA.WINNER.LOSERS	Everyone's a Loser!
+ARENA.MESSAGE.LAST_LOSER_STANDING	Last Loser Standing
+ARENA.MESSAGE.GAME_OVER	Game Over
+SPECTATE_LIST.HEADER	The Broken Ones:
+ITEM.CART.MODE_STRONG	Prise : forte
+ITEM.CART.MODE_WEAK	Prise : faible
